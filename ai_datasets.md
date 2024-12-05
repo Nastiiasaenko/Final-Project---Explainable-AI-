@@ -13,19 +13,20 @@ This section lists datasets related to AI, Large Language Models (LLMs), and the
 | Signal1M | 1 million news articles with misinformation labels (access may be restricted). | [https://research.signal-ai.com/datasets/signal1m.html?utm_source=chatgpt.com](https://research.signal-ai.com/datasets/signal1m.html?utm_source=chatgpt.com) |
 | MS News |  Dataset for misinformation detection in news articles (check for access details). | [https://msnews.github.io/?utm_source=chatgpt.com](https://msnews.github.io/?utm_source=chatgpt.com) |
 | LLM Comparative Performance | Dataset for evaluating LLMs on fake news detection. | [https://www.kaggle.com/datasets/kcaramancion/llm-comparative-performance-fake-news-detection-v1](https://www.kaggle.com/datasets/kcaramancion/llm-comparative-performance-fake-news-detection-v1) |
-| ... | ... | ... | 
 
- *(Continue in this format for all datasets)*
 
 ## Papers & Resources
 
-* **Detecting Cross-Modal Inconsistency to Defend Against Neural Fake News:** [https://github.com/rxtan2/DIDAN/](https://github.com/rxtan2/DIDAN/)
-* **From Deception to Detection: The Dual Roles of Large Language Models in Fake News:** [https://arxiv.org/html/2409.17416](https://arxiv.org/html/2409.17416)
-* **(Paper Title Here):** [https://openreview.net/attachment?id=TNOnM4CQsl&name=pdf](https://openreview.net/attachment?id=TNOnM4CQsl&name=pdf) 
-* **SIGIR 2024 Tutorial - Combating Misinformation in the Age of LLMs:** [https://sigir24-llm-misinformation.github.io/slides/SIGIR%202024%20Tutorial-all-version5.pdf](https://sigir24-llm-misinformation.github.io/slides/SIGIR%202024%20Tutorial-all-version5.pdf)
-* **(Paper Title Here):** [https://ieeexplore.ieee.org/document/10477989?utm_source=chatgpt.com](https://ieeexplore.ieee.org/document/10477989?utm_source=chatgpt.com)
-* **LLM for Misinformation Research:** [https://github.com/ICTMCG/LLM-for-misinformation-research?utm_source=chatgpt.com](https://github.com/ICTMCG/LLM-for-misinformation-research?utm_source=chatgpt.com)
-* **FakeNewsNet:** [https://github.com/KaiDMML/FakeNewsNet?tab=readme-ov-file](https://github.com/KaiDMML/FakeNewsNet?tab=readme-ov-file)
-* **LLM meets disinformation:** [https://llm-misinformation.github.io/](https://llm-misinformation.github.io/)
-* **Can LLM misinformation be detected?:** [https://github.com/llm-misinformation/llm-misinformation/](https://github.com/llm-misinformation/llm-misinformation/) (read the paper and understand the datasets and if you can reuse them) 
+| Name | Description | Link |
+|---|---|---| 
+| Detecting Cross-Modal Inconsistency to Defend Against Neural Fake News |  Code repository for a method to detect inconsistencies between text and images in news articles. | [https://github.com/rxtan2/DIDAN/](https://github.com/rxtan2/DIDAN/) |
+| From Deception to Detection: The Dual Roles of Large Language Models in Fake News |  Paper exploring the use of LLMs in both generating and detecting fake news. | [https://arxiv.org/html/2409.17416](https://arxiv.org/html/2409.17416) |
+|  (Paper Title Here)  |  Paper on LLMs and misinformation (title not provided in the original list). | [https://openreview.net/attachment?id=TNOnM4CQsl&name=pdf](https://openreview.net/attachment?id=TNOnM4CQsl&name=pdf)  |
+| SIGIR 2024 Tutorial - Combating Misinformation in the Age of LLMs | Slides from a tutorial on combating misinformation using LLMs. | [https://sigir24-llm-misinformation.github.io/slides/SIGIR%202024%20Tutorial-all-version5.pdf](https://sigir24-llm-misinformation.github.io/slides/SIGIR%202024%20Tutorial-all-version5.pdf) |
+| (Paper Title Here) | Paper on LLMs and misinformation (title not provided in the original list). | [https://ieeexplore.ieee.org/document/10477989?utm_source=chatgpt.com](https://ieeexplore.ieee.org/document/10477989?utm_source=chatgpt.com) |
+| LLM for Misinformation Research |  A repository of resources and tools for using LLMs in misinformation research. | [https://github.com/ICTMCG/LLM-for-misinformation-research?utm_source=chatgpt.com](https://github.com/ICTMCG/LLM-for-misinformation-research?utm_source=chatgpt.com) |
+| FakeNewsNet |  A repository containing datasets and code for fake news detection research. | [https://github.com/KaiDMML/FakeNewsNet?tab=readme-ov-file](https://github.com/KaiDMML/FakeNewsNet?tab=readme-ov-file) |
+| LLM meets disinformation |  Website dedicated to the intersection of LLMs and disinformation. | [https://llm-misinformation.github.io/](https://llm-misinformation.github.io/) |
+| Combating Misinformation in the Age of LLMs: Opportunities and Challenges |  Section of the "LLM meets disinformation" website focusing on combating misinformation. | [https://llm-misinformation.github.io/#Combating-Misinformation-in-the-Age-of-LLMs-Opportunities-and-Challenges](https://llm-misinformation.github.io/#Combating-Misinformation-in-the-Age-of-LLMs-Opportunities-and-Challenges) |
+| Can LLM misinformation be detected? |  Paper and resources exploring the detection of LLM-generated misinformation. | [https://github.com/llm-misinformation/llm-misinformation/](https://github.com/llm-misinformation/llm-misinformation/)  |
 
