@@ -90,6 +90,11 @@ For each key topic (e.g., Russia-Ukraine, COVID-19, US Elections), the dataset r
 - [Disinformation Articles](https://www.kaggle.com/datasets/corrieaar/disinformation-articles): Articles with claims and revokes for misinformation tracing.
 
 ---
+### **Gender-Based Datasets**
+- [Political Tweets with Gender Info](https://www.kaggle.com/datasets/lingshuhu/political-tweets-with-gender-info)
+
+---
+
 
 ### **Specialized Topics**
 - [Pro-Choice vs Pro-Life Tweets](https://www.kaggle.com/datasets/mcantoni81/twitter-supervised-dataset-prochoice-vs-prolife): Labeled tweets by abortion stance.
