@@ -9,6 +9,9 @@
 [Created Dataset](https://drive.google.com/file/d/18O_03z7Lq9QDOtWSikszl3sji1QFT7WQ/view?usp=sharing)
 
 
+
+
+
 ## **Abstract**
 This project introduces a **comprehensive enriched dataset** designed to bridge the gap between real-world content and AI-generated content, with a focus on tracing information origins, identifying biases, and addressing misinformation. The dataset is enriched with metadata such as misinformation labels, political polarization, sentiment classifications, and demographic indicators. It covers a wide range of topics, including public health (COVID-19), politics, conflict reporting, and social issues, making it an essential resource for training AI models, generating prompts, and conducting comparative analysis.
 
@@ -20,6 +23,33 @@ The practical and ethical significance of this work lies in its ability to:
 This dataset serves as the **artifact** of this project, alongside analytical pipelines and prompt engineering frameworks that enable deeper understanding of AI behavior and its alignment with societal values.
 
 ---
+
+# Table of Contents
+- [Overview](#overview)
+  - [Project Goals](#project-goals)
+  - [Significance](#significance)
+- [Project Pipeline](#project-pipeline)
+- [Dataset Overview](#dataset-overview)
+- [The Flow of One Use Case of the Dataset](#the-flow-of-one-use-case-of-the-dataset)
+- [Dataset Description](#dataset-description)
+  - [Core Components](#core-components)
+  - [Enrichment Layers](#enrichment-layers)
+  - [Topics and Subtopics](#topics-and-subtopics)
+- [Prompt Engineering Enhanced with the Dataset](#prompt-engineering-enhanced-with-the-dataset)
+  - [Prompt Types](#prompt-types)
+  - [Key Attributes for Prompting](#key-attributes-for-prompting)
+- [Pipeline Workflow](#pipeline-workflow)
+  - [1. Data Collection and Integration](#1-data-collection-and-integration)
+  - [2. Data Preprocessing](#2-data-preprocessing)
+  - [3. Enrichment](#3-enrichment)
+  - [4. Prompt Engineering](#4-prompt-engineering)
+  - [5. Comparative Analysis](#5-comparative-analysis)
+- [Project Deliverables](#project-deliverables)
+- [Practical and Ethical Importance](#practical-and-ethical-importance)
+- [Future Work](#future-work)
+- [Repository Structure](#repository-structure)
+- [Usage](#usage)
+
 
 ## **Overview**
 ### **Project Goals**
