@@ -193,7 +193,7 @@ The dataset aligns with the principles of Responsible AI, promoting transparency
 ## **Usage**
 1. Clone the repository:
    ```bash
-   git clone [repo_url]
+   git clone https://github.com/Nastiiasaenko/Final-Project---Explainable-AI-.git
 
 
 
