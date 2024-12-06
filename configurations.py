@@ -1,0 +1,11 @@
+commercial_llm_name = "gemini-1.5-flash"
+temperature = 0.2
+file_path = ["math_data/math_concepts.json"]
+chunk_size = 1000
+chunk_overlap = 200
+embedding_model = "models/embedding-001"
+k_value = 1
+hhem_model_name = "vectara/hallucination_evaluation_model"
+nli_model_name = "cross-encoder/nli-deberta-v3-base"
+gemini_model_path = "models/gemini-1.5-flash"
+colbertv2_url = "http://20.102.90.50:2017/wiki17_abstracts"
