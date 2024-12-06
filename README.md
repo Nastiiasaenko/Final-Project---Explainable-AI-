@@ -4,6 +4,10 @@
 
 # **Comprehensive Dataset for AI-Generated Content and Tracing Research**
 
+### Important Links
+[Presentation slides](https://docs.google.com/presentation/d/1APhn37WoFppQiNbDzyXFRX6cgEz8SqkR65O66kJhpAw/edit?usp=sharing)
+[Created Dataset](https://drive.google.com/file/d/18O_03z7Lq9QDOtWSikszl3sji1QFT7WQ/view?usp=sharing)
+
 ## **Abstract**
 This project introduces a **comprehensive enriched dataset** designed to bridge the gap between real-world content and AI-generated content, with a focus on tracing information origins, identifying biases, and addressing misinformation. The dataset is enriched with metadata such as misinformation labels, political polarization, sentiment classifications, and demographic indicators. It covers a wide range of topics, including public health (COVID-19), politics, conflict reporting, and social issues, making it an essential resource for training AI models, generating prompts, and conducting comparative analysis.
 
