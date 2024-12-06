@@ -8,6 +8,7 @@
 [Presentation slides](https://docs.google.com/presentation/d/1APhn37WoFppQiNbDzyXFRX6cgEz8SqkR65O66kJhpAw/edit?usp=sharing)
 [Created Dataset](https://drive.google.com/file/d/18O_03z7Lq9QDOtWSikszl3sji1QFT7WQ/view?usp=sharing)
 
+
 ## **Abstract**
 This project introduces a **comprehensive enriched dataset** designed to bridge the gap between real-world content and AI-generated content, with a focus on tracing information origins, identifying biases, and addressing misinformation. The dataset is enriched with metadata such as misinformation labels, political polarization, sentiment classifications, and demographic indicators. It covers a wide range of topics, including public health (COVID-19), politics, conflict reporting, and social issues, making it an essential resource for training AI models, generating prompts, and conducting comparative analysis.
 
@@ -36,6 +37,10 @@ The dataset is uniquely positioned to address challenges in:
 3. **Explainability**: The metadata-rich structure supports explainable AI research, providing transparency into how AI systems process and replicate human-generated content.
 
 ---
+### Project Pipeline 
+![image](https://github.com/user-attachments/assets/4fe154a8-c264-44d8-a9ef-f3713b964252)
+
+---
 #### Dataset Overview
 
 The constructed datasets has the following structure: 
@@ -47,33 +52,6 @@ The constructed datasets has the following structure:
 # The flow of one of the use cases of the dataset 
 ![image](https://github.com/user-attachments/assets/e0d93fdf-ed94-47ca-a0a0-2badfa2d3242)
 
-# Visualizations of Dataset Statistics
-
-This section provides insights into the dataset through visualizations of key statistics and distributions.
-
-## Polarization Flag Distribution
-![Polarization Flag Distribution](images/Polarization_flag_distribution.png)
-
-## Publisher Distribution
-![Publisher Distribution](images/Publisher_distribution.png)
-
-## Gender Distribution
-![Gender Distribution](images/gender_distribution.png)
-
-## Sentiment Category Distribution
-![Sentiment Category Distribution](images/sentiment_category_distribution.png)
-
-## Source Distribution
-![Source Distribution](images/source_distribution.png)
-
-## Topic Distribution
-![Topic Distribution](images/topic_distribution.png)
-
-## Topic-Subtopic Distribution
-![Topic-Subtopic Distribution](images/topic_subtopic_distribution.png)
-
-## Type of Content Distribution
-![Type of Content Distribution](images/type_of_content_distribution.png)
 
 
 
