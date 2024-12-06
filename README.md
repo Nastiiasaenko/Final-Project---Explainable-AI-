@@ -4,9 +4,14 @@
 
 # **Comprehensive Dataset for AI-Generated Content and Tracing Research**
 
+Comment for publishing - yes, name included 
+
 ### Important Links
 [Presentation slides](https://docs.google.com/presentation/d/1APhn37WoFppQiNbDzyXFRX6cgEz8SqkR65O66kJhpAw/edit?usp=sharing)
+
 [Created Dataset](https://drive.google.com/file/d/18O_03z7Lq9QDOtWSikszl3sji1QFT7WQ/view?usp=sharing)
+
+[Video pitch](https://youtu.be/3wx0rrdt9is)
 
 
 
