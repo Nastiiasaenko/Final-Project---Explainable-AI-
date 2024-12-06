@@ -34,6 +34,10 @@ The dataset is uniquely positioned to address challenges in:
 ---
 #### Dataset Overview
 
+The constructed datasets has the following structure: 
+![image](https://github.com/user-attachments/assets/dd974f84-beba-4e13-99ba-17ab75296305)
+
+
 [Link to dataset](https://drive.google.com/file/d/18O_03z7Lq9QDOtWSikszl3sji1QFT7WQ/view?usp=sharing) 
 # Visualizations of Dataset Statistics
 
