@@ -39,6 +39,10 @@ The constructed datasets has the following structure:
 
 
 [Link to dataset](https://drive.google.com/file/d/18O_03z7Lq9QDOtWSikszl3sji1QFT7WQ/view?usp=sharing) 
+
+# The flow of one of the use cases of the dataset 
+![image](https://github.com/user-attachments/assets/e0d93fdf-ed94-47ca-a0a0-2badfa2d3242)
+
 # Visualizations of Dataset Statistics
 
 This section provides insights into the dataset through visualizations of key statistics and distributions.
