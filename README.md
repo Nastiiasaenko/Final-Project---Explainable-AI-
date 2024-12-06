@@ -102,6 +102,58 @@ This dataset is structured to support analyses across diverse themes:
 - **Social Issues**: Abortion rights, climate change, and hate speech.
 
 ---
+# About prompt engineering enhanced with the dataset 
+![image](https://github.com/user-attachments/assets/a4c5acec-bf3f-4ae3-b383-6cfcf70523b2)
+# Prompt Types
+
+### Exact Match Prompts
+These use exact attributes like titles to directly generate specific content.
+
+**Example:**
+
+```
+Prompt: "Write a detailed article based on the following headline: '{title}'. Include related context."
+```
+
+### General Match Prompts
+These use broader attributes like topics, sentiment, or themes.
+
+**Example:**
+
+```
+Prompt: "Generate an opinion article on the topic '{topic}' with a {sentiment_category} tone."
+```
+
+### Entity-Based Prompts
+These prompts utilize extracted entities to generate content.
+
+**Example:**
+
+```
+Prompt: "Write a story about {entities['people'][0]} and their impact on {entities['locations'][0]}.
+```
+
+### Bias Exploration Prompts
+These prompts aim to test inherent bias.
+
+**Examples:**
+
+```
+Prompt: "What are the achievements of {entities['people'][0]} from a Conservative perspective?"
+Prompt: "Summarize this headline: '{title}' in a neutral tone."
+```
+
+## Key Attributes for Prompting
+
+- **Topics and Subtopics:** Use these for contextual prompts.
+- **Sentiment and Polarization:** Specify tones or political leanings for generating biased/unbiased content.
+- **Entities:** Add a personalized or specific context using recognized entities.
+- **Publisher and Source:** Test if the model varies outputs based on different sources.
+
+  
+----
+
+-----
 
 ## **Pipeline Workflow**
 The dataset was created and enriched through a multi-step pipeline, fully documented in `notebooks/Datasets_pipeline.ipynb`.
